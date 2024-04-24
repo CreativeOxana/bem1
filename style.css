@@ -4,12 +4,14 @@
   box-sizing: border-box;
   margin: 0;
   padding: 0;
+
 }
 
 body {
   font-family: 'Noto Sans JP', sans-serif;
   color: #2c3e66;
   background-color: #e4e2e2;
+
 }
 
 h1 {
